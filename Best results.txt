@@ -1,0 +1,149 @@
+RUN1:
+
+Results for Random Forest:
+Best Parameters: {'bootstrap': False, 'criterion': 'entropy', 'max_depth': 10, 'min_samples_leaf': 2, 'min_samples_split': 5, 'n_estimators': 100}
+Mean accuracy: 0.8831223628691983
+Mean precision: 0.8865475345480472
+Mean recall: 0.8831223628691983
+Mean F1-score: 0.8744911075771533
+Mean ROC AUC: 0.884543626807066
+
+RUN2:
+
+Results for XGBoost:
+Best Parameters: {'colsample_bytree': 1.0, 'learning_rate': 0.1, 'max_depth': 5, 'n_estimators': 270, 'subsample': 0.7}
+Mean accuracy: 0.8742616033755274
+Mean precision: 0.8747122220672743
+Mean recall: 0.8742616033755274
+Mean F1-score: 0.8675481515576605
+Mean ROC AUC: 0.8877644282113468
+
+RUN3:
+
+Results for XGBoost:
+Best Parameters: {'colsample_bytree': 0.6, 'learning_rate': 0.1, 'max_depth': 5, 'n_estimators': 400, 'subsample': 0.5}
+Mean accuracy: 0.8721518987341772
+Mean precision: 0.8707979222097576
+Mean recall: 0.8721518987341772
+Mean F1-score: 0.8649141044723405
+Mean ROC AUC: 0.8853129014693101
+
+RUN4:
+
+Results for XGBoost:
+Best Parameters: {'colsample_bytree': 1.0, 'learning_rate': 0.1, 'max_depth': 5, 'n_estimators': 300, 'subsample': 0.7}
+Mean accuracy: 0.8734177215189873
+Mean precision: 0.873914253942323
+Mean recall: 0.8734177215189873
+Mean F1-score: 0.8667321112874834
+Mean ROC AUC: 0.8876596945104422
+
+RUN5:
+
+Results for XGBoost:
+Best Parameters: {'colsample_bytree': 0.8, 'learning_rate': 0.1, 'max_depth': 5, 'n_estimators': 250, 'subsample': 0.7}
+Mean accuracy: 0.8556962025316455
+Mean precision: 0.8741301937038646
+Mean recall: 0.8556962025316455
+Mean F1-score: 0.858073691666949
+Mean ROC AUC: 0.8945352856943247
+
+RUN6:
+
+Results for XGBoost:
+Best Parameters: {'colsample_bytree': 1.0, 'learning_rate': 0.01, 'max_depth': 5, 'n_estimators': 250, 'subsample': 0.5}
+Mean accuracy: 0.8611814345991562
+Mean precision: 0.8719487605495917
+Mean recall: 0.8611814345991562
+Mean F1-score: 0.8629855383807635
+Mean ROC AUC: 0.8919224685092912
+
+RUN7:
+
+Results for Random Forest:
+Best Parameters: {'bootstrap': False, 'criterion': 'gini', 'max_depth': 15, 'min_samples_leaf': 2, 'min_samples_split': 10, 'n_estimators': 300}
+Mean accuracy: 0.8531645569620254
+Mean precision: 0.8675146256986667
+Mean recall: 0.8531645569620254
+Mean F1-score: 0.855831474372768
+Mean ROC AUC: 0.8879292586709557
+
+RUN8:
+
+Results for Random Forest:
+Best Parameters: {'bootstrap': False, 'criterion': 'gini', 'max_depth': 15, 'min_samples_leaf': 1, 'min_samples_split': 2, 'n_estimators': 200}
+Mean accuracy: 0.8426160337552743
+Mean precision: 0.8621227829898748
+Mean recall: 0.8426160337552743
+Mean F1-score: 0.8463887342947611
+Mean ROC AUC: 0.8810364116194341
+
+RUN9:
+
+Results for Random Forest:
+Best Parameters: {'bootstrap': False, 'criterion': 'gini', 'max_depth': 5, 'min_samples_leaf': 1, 'min_samples_split': 5, 'n_estimators': 300}
+Mean accuracy: 0.8683544303797468
+Mean precision: 0.8801894437197844
+Mean recall: 0.8683544303797468
+Mean F1-score: 0.8669082350572015
+Mean ROC AUC: 0.895261016221632
+
+RUN10:
+
+Results for Random Forest:
+Best Parameters: {'bootstrap': True, 'criterion': 'gini', 'max_depth': 10, 'min_samples_leaf': 4, 'min_samples_split': 5, 'n_estimators': 100}
+Mean accuracy: 0.8734177215189873
+Mean precision: 0.8834610996184298
+Mean recall: 0.8734177215189873
+Mean F1-score: 0.8724540477286953
+Mean ROC AUC: 0.8917293004771325
+
+RUN11:
+
+Results for XGBoost:
+Best Parameters: {'colsample_bytree': 1.0, 'learning_rate': 0.01, 'max_depth': 5, 'n_estimators': 270, 'subsample': 1.0}
+Mean accuracy: 0.870464135021097
+Mean precision: 0.8804722774326621
+Mean recall: 0.870464135021097
+Mean F1-score: 0.8704663526679305
+Mean ROC AUC: 0.906085757443402
+
+RUN12:
+
+Results for Random Forest:
+Best Parameters: {'bootstrap': True, 'criterion': 'gini', 'max_depth': 10, 'min_samples_leaf': 4, 'min_samples_split': 10, 'n_estimators': 100}
+Mean accuracy: 0.8734177215189872
+Mean precision: 0.8822012847323142
+Mean recall: 0.8734177215189872
+Mean F1-score: 0.8731084994614641
+Mean ROC AUC: 0.8976376921403757
+
+RUN13:
+
+Results for XGBoost:
+Best Parameters: {'colsample_bytree': 0.8, 'learning_rate': 0.1, 'max_depth': 5, 'n_estimators': 400, 'subsample': 1.0}
+Mean accuracy: 0.8789029535864978
+Mean precision: 0.880241676457825
+Mean recall: 0.8789029535864978
+Mean F1-score: 0.8722683403785476
+Mean ROC AUC: 0.9015546475512612
+
+RUN14:
+
+Results for Random Forest:
+Best Parameters: {'bootstrap': False, 'criterion': 'gini', 'max_depth': 15, 'min_samples_leaf': 4, 'min_samples_split': 2, 'n_estimators': 100}
+Mean accuracy: 0.8599156118143461
+Mean precision: 0.8739425714543596
+Mean recall: 0.8599156118143461
+Mean F1-score: 0.8627461362411666
+Mean ROC AUC: 0.8982646134053429
+
+RUN15:
+
+Results for XGBoost:
+Best Parameters: {'colsample_bytree': 1.0, 'learning_rate': 0.01, 'max_depth': 5, 'n_estimators': 260, 'subsample': 0.5}
+Mean accuracy: 0.8767932489451477
+Mean precision: 0.8858604485662609
+Mean recall: 0.8767932489451477
+Mean F1-score: 0.8763365810661036
+Mean ROC AUC: 0.9106162803621765
